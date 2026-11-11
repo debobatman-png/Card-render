@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 # ضع بياناتك هنا
 TOKEN = "8952904177:AAE1PkTVojrQ7uhg_eTioR3WeJQiVy9fdqc"
-GAME_SHORT_NAME = "card win"
+GAME_SHORT_NAME = "Card money"
 GAME_URL = "https://debobatman-png.github.io/Card-win/"
 
 # إنشاء خادم ويب بسيط لإبقاء Render نشطاً
