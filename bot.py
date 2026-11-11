@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 # ضع بياناتك هنا
 TOKEN = "8952904177:AAE1PkTVojrQ7uhg_eTioR3WeJQiVy9fdqc"
-GAME_SHORT_NAME = "Card"
+GAME_SHORT_NAME = "Card win"
 GAME_URL = "https://debobatman-png.github.io/Card-win/"
 
 
